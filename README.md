@@ -1,5 +1,5 @@
 # CV-Scanner
-Choose right candidate CV for your post in easy way.
+Choose a right candidate's CV for your company in easy way.
 
 Process:
 
